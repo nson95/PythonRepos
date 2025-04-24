@@ -22,5 +22,5 @@ while choice == "y":
         elif secretNbr-userNbr>1:
             print("Too low!")
         else:
-            print("Congrats! ")
+            print("Congrats!")
         choice = input("Continue? y/n: ")
